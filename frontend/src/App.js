@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <p>Welcome to Fresh Avenue EShop!</p>
+      <h1>Welcome to Fresh Avenue EShop!</h1>
     </>
   );
 }
